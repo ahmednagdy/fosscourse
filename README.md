@@ -1,4 +1,4 @@
-# Gaussian Elimimation
+# Gauss-Jordan Elimination
 
 ## What it does
 
